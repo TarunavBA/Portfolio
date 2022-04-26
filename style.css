@@ -1,7 +1,7 @@
 *
 {
 	margin: 0;
-	font-family: Consolas;
+	font-family: Fira Code;
 	padding: 0;
 	box-sizing: border-box;
 }
@@ -52,4 +52,8 @@ a:hover
 	{
 		background-position-y: -480px;
 	}
+}
+h2, h3
+{
+	color: #FFF
 }
